@@ -1,0 +1,34 @@
+{
+    "move": [
+        {
+            "title": "Paper Town",
+            "year": 2017,
+            "genre": [
+                "love",
+                "teen adger",
+                "usa"
+            ],
+            "duration": "2h"
+        },
+        {
+            "title": "American Animals",
+            "year": 2018,
+            "genre": [
+                "crime",
+                "england",
+                "history"
+            ],
+            "duration": "2h 15m"
+        },
+        {
+            "title": "Dead Pool 2",
+            "year": 2018,
+            "genre": [
+                "super hero",
+                "action",
+                "usa"
+            ],
+            "duration": "2h 39m"
+        }
+    ]
+}

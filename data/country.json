@@ -1,0 +1,16 @@
+{
+    "country": [
+        {
+            "name": "Indonesia",
+            "capital": "Jakarta"
+        },
+        {
+            "name": "Norwaegia",
+            "capital": "Oslo"
+        },
+        {
+            "Name": "Jepang",
+            "capital": "Tokyo"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "mobil": [
+        {
+            "name": "Xpander",
+            "type": "mpv"
+        },
+        {
+            "name": "xenia",
+            "type": "mpv"
+        },
+        {
+            "name": "avanza",
+            "type": "mpv"
+        }
+    ]
+}
